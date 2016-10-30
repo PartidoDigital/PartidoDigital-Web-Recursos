@@ -14,3 +14,8 @@
   color: #f37021;
   font-family: "Open Sans";
 }
+
+.auth0-lock.auth0-lock .auth0-lock-input-wrap .auth0-lock-input {
+  box-shadow: none;
+  margin-bottom: 0;
+}
