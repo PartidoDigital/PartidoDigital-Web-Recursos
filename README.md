@@ -1,2 +1,5 @@
-# PartidoDigital-Web-Recursos
-Recursos del Partido Digital
+![Alt text](./assets/img/logo_horizontal.svg)
+
+## Página de recursos
+
+Próximamente...
