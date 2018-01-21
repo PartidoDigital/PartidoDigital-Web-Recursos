@@ -6,6 +6,10 @@ body {
 	background: url(https://recursos.partidodigital.org.uy/assets/img/fondo_collage.jpg) repeat;
 }
 
+.auth0-lock-center {
+	margin-top: 45%;
+}
+
 .auth0-lock-custom-icon {
 	top: 15px!important;
 }
