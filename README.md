@@ -1,5 +1,5 @@
 ---
-date: 1/22/2018
+date: 2018-01-22
 ---
 
 ![Alt text](./assets/img/logo_horizontal.svg)
