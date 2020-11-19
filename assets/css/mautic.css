@@ -1,0 +1,85 @@
+h1 {
+  font-weight: 700;
+}
+
+h4 {
+  font-style: italic;
+}
+
+table {
+  margin-top: 0.75rem;
+  width: 100%;
+}
+
+.text-muted {
+  --text-opacity: 1;
+  color: #a0aec0;
+  color: rgba(160, 174, 192, var(--text-opacity));
+}
+
+label {
+  display: inline-block;
+  margin-bottom: 0.25rem;
+  font-weight: 400;
+  font-size: 1.125rem;
+}
+
+#frequency_email {
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.col-md-6 {
+  border-width: 1px;
+  padding: 1rem;
+  border-radius: 0.25rem;
+}
+
+.col-md-6:first-child {
+  margin-right: 1rem;
+}
+
+input[type="text"], input[type="date"], input[type="number"] {
+  border-width: 1px;
+  height: 1.75rem;
+  width: 10rem;
+  display: block;
+}
+
+select {
+  border-width: 1px;
+  display: block;
+  width: auto;
+}
+
+hr {
+  display: none;
+}
+
+label.control-label {
+  font-weight: 600;
+  margin-top: 0.25rem;
+}
+
+small {
+  line-height: .75rem;
+}
+
+#contact-segments {
+  margin-bottom: 1rem;
+}
+
+button[type="submit"] {
+  --bg-opacity: 1;
+  background-color: #ee7211;
+  background-color: rgba(238, 114, 17, var(--bg-opacity));
+  --text-opacity: 1;
+  color: #fff;
+  color: rgba(255, 255, 255, var(--text-opacity));
+  font-weight: 700;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border-radius: 0.25rem;
+}
